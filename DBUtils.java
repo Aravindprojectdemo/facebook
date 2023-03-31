@@ -1,2 +1,1 @@
-This is gitbash command test page
-updated
+I am in master branch
